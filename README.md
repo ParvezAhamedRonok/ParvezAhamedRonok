@@ -1,47 +1,43 @@
+<!-- Banner -->
+![Banner](https://img.freepik.com/premium-vector/abstract-modern-banner-background-template-design_181182-13978.jpg)  
+
 # Hi there, I'm Parvez 👋  
-
-🚀 **Full-Stack Developer | Next.js | Node.js | MongoDB | MySQL | SEO Enthusiast**  
-
-I’m passionate about building modern web applications that are fast, scalable, and user-friendly.  
-I love solving real-world problems with code and continuously learning new technologies.  
+🚀 *Full-Stack Developer | React | Next.js | Node.js | MongoDB | MySQL | SEO Enthusiast*  
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠️ Tech Stack  
 
 ### Languages & Frameworks  
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)  
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)  
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)  
+![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=000)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFF)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FFF)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=FFF)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=FFF)  
 
-### Tools & Others  
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)  
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)  
-![SEO](https://img.shields.io/badge/SEO-000?style=for-the-badge&logo=google)  
-
----
-
-## 📌 Projects  
-
-### 🔹 [Portfolio Website](https://your-portfolio-link.com)  
-A modern portfolio built with **Next.js & Tailwind CSS** showcasing my work and skills.  
-
-### 🔹 [E-commerce App](https://github.com/yourusername/ecommerce-app)  
-Full-stack app with **Next.js, Node.js, MongoDB**, and Stripe payment integration.  
-
-### 🔹 [Admin Dashboard](https://github.com/yourusername/admin-dashboard)  
-Custom admin dashboard with analytics, user management, and responsive UI.  
-
-### 🔹 [SEO Analyzer Tool](https://github.com/yourusername/seo-analyzer)  
-A tool that checks on-page SEO health and generates optimization suggestions.  
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFF)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFF)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFF)  
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=FFF)  
 
 ---
 
-## 📬 Contact Me  
+## 📌 Featured Projects  
+
+🔹 [**Portfolio Website**](https://your-portfolio-link.com)  
+Showcasing my work and skills with **Next.js & Tailwind CSS**.  
+
+🔹 [**E-commerce App**](https://github.com/yourusername/ecommerce-app)  
+Full-stack project using **Next.js, Node.js, MongoDB, Stripe**.  
+
+🔹 [**SEO Analyzer Tool**](https://github.com/yourusername/seo-analyzer)  
+A tool to analyze SEO health and give recommendations.  
+
+---
+
+## 📬 Connect With Me  
 
 - 📧 Email: **yourmail@example.com**  
 - 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
@@ -49,12 +45,17 @@ A tool that checks on-page SEO health and generates optimization suggestions.
 
 ---
 
-## ⚡ Fun & Stats  
+## ⚡ GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)  
+---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
+✨ *“Talk is cheap. Show me the code.”*  
