@@ -1,61 +1,125 @@
-<!-- Banner -->
-![Banner](https://img.freepik.com/premium-vector/abstract-modern-banner-background-template-design_181182-13978.jpg)  
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Hi%20👋,%20I'm%20Parvez!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-# Hi there, I'm Parvez 👋  
-🚀 *Full-Stack Developer | React | Next.js | Node.js | MongoDB | MySQL | SEO Enthusiast*  
-
----
-
-## 🛠️ Tech Stack  
-
-### Languages & Frameworks  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFF)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FFF)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=FFF)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=FFF)  
-
-### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFF)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFF)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFF)  
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=FFF)  
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/ParvezAhamedRonok">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00c6ff&width=700&lines=🚀+MERN+Stack+Web+Developer;💻+React+Native+App+Developer;⚡+Passionate+About+Building+Scalable+Web+Apps" />
+  </a>
+</p>
 
 ---
 
-## 📌 Featured Projects  
+## 👨‍💻 About Me  
 
-🔹 [**Portfolio Website**](https://your-portfolio-link.com)  
-Showcasing my work and skills with **Next.js & Tailwind CSS**.  
+🚀 I’m **Parvez**, a passionate **MERN Stack Web Developer** with nearly 2 years of experience crafting dynamic, responsive, and user-friendly websites.  
 
-🔹 [**E-commerce App**](https://github.com/yourusername/ecommerce-app)  
-Full-stack project using **Next.js, Node.js, MongoDB, Stripe**.  
-
-🔹 [**SEO Analyzer Tool**](https://github.com/yourusername/seo-analyzer)  
-A tool to analyze SEO health and give recommendations.  
+✨ I thrive on **learning new technologies**, **building scalable applications**, and writing **clean, efficient code**.  
+💡 My expertise spans both **Frontend** and **Backend**, delivering end-to-end solutions tailored to client needs.  
 
 ---
 
-## 📬 Connect With Me  
+## 🛠️ Technical Skills  
 
-- 📧 Email: **yourmail@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 🌍 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+
+**App Development:**  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
 ---
 
-## ⚡ GitHub Stats  
+## 🔧 What I Offer  
+
+✅ **Pixel-Perfect Websites** – Convert PSD, XD, Sketch, PNG, or JPG into responsive websites  
+✅ **Frontend Development** – Stunning UIs with React.js & Next.js  
+✅ **Backend Development** – Robust APIs using Node.js & Express.js  
+✅ **Full-Stack Solutions** – Seamless integration of front & back ends  
+
+---
+
+## 🌐 Projects  
+
+### 🚀 Personal Portfolio  
+🔗 [Portfolio Website](https://parvezahamedronok.github.io/Personal-Portfolio/)  
+
+### 🌍 Live Projects  
+- [iPractest](https://ipractest.com)  
+- [Live Strims Animat](https://livestrimsanimat.com)  
+
+### 📂 Other Projects  
+- [UK Test Project](https://life-inthe-united-kingdom.netlify.app/)  
+- [Billing Dashboard](https://skynet-billing-dashboard.vercel.app/)  
+- [HTML Project 1](https://parvezahamedronok.github.io/F.Project_second-2022)  
+- [HTML Project 2](https://parvezahamedronok.github.io/new01/)  
+- [Mini Translator (React)](https://parvezahamedronok.github.io/Mini_Translator-React/)  
+
+---
+
+## 💼 Experience  
+
+**Front-End Developer – [iPractest](https://ipractest.com)**  
+📅 Jun 2023 – Aug 2025 · Remote, Bangladesh  
+- Developed responsive UIs with **React.js, Next.js, TailwindCSS**  
+- Built scalable backend features with **Node.js & Express.js**  
+- Worked collaboratively with teams, delivering high-quality solutions  
+
+**Skills:** HTML · CSS · Tailwind CSS · Bootstrap · JavaScript · React.js · Next.js · Node.js · Express.js · MongoDB · MySQL  
+
+---
+
+## 🎓 Education  
+
+**Ashek Mahmud College, Jamalpur, Mymensingh, Bangladesh**  
+📅 2016 – 2018  
+🎯 Focus: **Object-Oriented Programming (OOP)**  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ParvezAhamedRonok&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParvezAhamedRonok&theme=radical" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParvezAhamedRonok&layout=compact&theme=radical" />
+</p>
 
 ---
 
-✨ *“Talk is cheap. Show me the code.”*  
+## 📬 Let’s Connect  
+
+📧 **Email:** [mdpervez946@gmail.com](mailto:mdpervez946@gmail.com)  
+📱 **Phone/WhatsApp:** +880 1946255658  
+💻 **GitHub:** [ParvezAhamedRonok](https://github.com/ParvezAhamedRonok)  
+
+<p align="center">
+  <a href="mailto:mdpervez946@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ParvezAhamedRonok"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+</p>
