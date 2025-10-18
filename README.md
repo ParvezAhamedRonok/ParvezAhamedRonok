@@ -64,8 +64,7 @@
 - [BillingSky](https://skynet-billing-dashboard.vercel.app)  
 
 ### 📂 Other Projects  
-- [UK Test Project](https://life-inthe-united-kingdom.netlify.app/)  
-- [Billing Dashboard](https://skynet-billing-dashboard.vercel.app/)  
+- [UK Test Project](https://life-inthe-united-kingdom.netlify.app/)   
 - [HTML Project 1](https://parvezahamedronok.github.io/F.Project_second-2022)  
 - [HTML Project 2](https://parvezahamedronok.github.io/new01/)  
 - [Mini Translator (React)](https://parvezahamedronok.github.io/Mini_Translator-React/)  
