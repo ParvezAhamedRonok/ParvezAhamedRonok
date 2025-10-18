@@ -61,7 +61,7 @@
 
 ### 🌍 Live Projects  
 - [iPractest](https://ipractest.com)  
-- Billing Wesite(https://skynet-billing-dashboard.vercel.app)  
+- [BillingSky](https://skynet-billing-dashboard.vercel.app)  
 
 ### 📂 Other Projects  
 - [UK Test Project](https://life-inthe-united-kingdom.netlify.app/)  
