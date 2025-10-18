@@ -61,7 +61,7 @@
 
 ### 🌍 Live Projects  
 - [iPractest](https://ipractest.com)  
-- [Live Strims Animat](https://livestrimsanimat.com)  
+- Billing Wesite(https://skynet-billing-dashboard.vercel.app)  
 
 ### 📂 Other Projects  
 - [UK Test Project](https://life-inthe-united-kingdom.netlify.app/)  
